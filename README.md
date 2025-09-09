@@ -26,7 +26,7 @@ Flutter app that shows upcoming departures for BVG stops using REST API.
 | ![Home](.content/home.png) | ![Search](.content/search.png) | ![Departures](.content/departures.png) | ![Error](.content/error.png) |
 
 ## Screen recording
-| Search & Select Departures |
+| Search & List Departures |
 | --- |
 | <video src="https://github.com/user-attachments/assets/cb8d23b3-981a-4538-8772-ba9fa563837f" controls> |
 

@@ -95,7 +95,7 @@ class AppTheme {
       ),
 
       // Input Decoration Theme
-      inputDecorationTheme: InputDecorationThemeData(
+      inputDecorationTheme: InputDecorationTheme(
         hintStyle: textStyles.bodyLarge.withColor(colors.foregroundTertiary),
       ),
       textSelectionTheme: TextSelectionThemeData(
