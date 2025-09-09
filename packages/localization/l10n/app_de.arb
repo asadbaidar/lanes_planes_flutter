@@ -1,0 +1,22 @@
+{
+  "appName": "Lanes & Planes",
+  "searchForStation": "Station suchen",
+  "departures": "Abfahrten",
+  "cancelled": "abgesagt",
+  "delayed": "verspätet",
+  "onTime": "pünktlich",
+  "noDepartures": "Wir konnten keine Abfahrten von dieser Haltestelle finden.",
+  "noResults": "Wir konnten keine Ergebnisse finden.",
+  "homeTitle": "Finde die besten Verbindungen mit öffentlichen Verkehrsmitteln",
+  "platform": "Gleis {platform}",
+  "notFoundException": "Ressource nicht gefunden.",
+  "noDataException": "Etwas ist schief gelaufen, bitte versuchen Sie es später erneut.",
+  "typeMismatchException": "Der verwendete Typ stimmt nicht mit dem erwarteten überein.",
+  "serverException": "Anfrage konnte nicht erfüllt werden, bitte versuchen Sie es später erneut.",
+  "noInternetException": "Kein Internetzugang, bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut.",
+  "badRequestException": "Anfrage war ungültig.",
+  "unauthorisedException": "Anfrage war nicht autorisiert.",
+  "timeoutException": "Es dauert länger als gewöhnlich, bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut.",
+  "cancelException": "Anfrage wurde abgebrochen.",
+  "unknownException": "Etwas ist schief gelaufen!"
+}

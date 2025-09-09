@@ -1,0 +1,10 @@
+arb-dir: l10n
+output-dir: lib/l10n
+template-arb-file: app_en.arb
+output-class: AppLocalization
+output-localization-file: app_localization.dart
+nullable-getter: false
+use-deferred-loading: false
+preferred-supported-locales:
+  - en
+  - de

@@ -1,0 +1,22 @@
+{
+  "appName": "Lanes & Planes",
+  "searchForStation": "Search for station",
+  "departures": "Departures",
+  "cancelled": "cancelled",
+  "delayed": "delayed",
+  "onTime": "on-time",
+  "noResults": "We couldn't find any results",
+  "noDepartures": "We couldn't find any departures from this stop.",
+  "homeTitle": "Find the best public transport connections",
+  "platform": "Platform {platform}",
+  "notFoundException": "Resource not found.",
+  "noDataException": "Something went wrong, please try again later.",
+  "typeMismatchException": "Type used is not matching the expected one.",
+  "serverException": "Unable to fulfill the request, please try again later.",
+  "noInternetException": "No internet access, please check your internet and try again.",
+  "badRequestException": "Request was invalid.",
+  "unauthorisedException": "Request was not authorized.",
+  "timeoutException": "Its taking longer than usual, please check your internet and try again later.",
+  "cancelException": "Request was canceled.",
+  "unknownException": "Something went wrong!"
+}
