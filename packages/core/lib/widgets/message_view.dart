@@ -32,7 +32,11 @@ class MessageView extends StatelessWidget {
         children: [
           EmojiIcon(emojiIcon),
           SizedBox(height: context.spacing.v24),
-          Text(message, style: context.textTheme.bodyLarge),
+          Text(
+            message,
+            style: context.textTheme.bodyLarge,
+            textAlign: TextAlign.center,
+          ),
         ],
       ),
     );
