@@ -33,8 +33,8 @@ Flutter app that shows upcoming departures for BVG stops using REST API.
 ## Pre-requisites
 Make sure you have following or latest flutter/dart sdk installed on your machine. If not, follow the instructions [here](https://flutter.dev/docs/get-started/install).
 
-`flutter: 3.32.0`
-`dart: 3.8.0`
+`flutter: 3.32.8`
+`dart: 3.8.1`
 
 ## Setup
 1. Generated files are added to git, but in case you need fresh copies, run the following commands:
